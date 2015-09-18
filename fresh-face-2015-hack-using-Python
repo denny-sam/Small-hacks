@@ -13,4 +13,4 @@ while(x>0):
 	time.sleep(6)
 	browser.quit()
 	x=x-1
-	print 837-x
+	
