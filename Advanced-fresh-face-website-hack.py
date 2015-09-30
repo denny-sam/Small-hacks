@@ -1,7 +1,7 @@
 import requests
 import time
 url="http://api.itimes.com/freshface-contestants-vote/json"
-payload={'contestant-id':'55ea97ecd5cc607c5b8b4626',
+payload={'contestant-id':'xxxxxxxxxxxxxxxxxxxxxxxx',
          'actor':'',
          'city':'pune',
          'platform':'desktop',
